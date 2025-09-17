@@ -1,0 +1,4 @@
+feature_name: prcp
+data_path: ./data/monthly_prcp_selected.nc
+results_path: ./results/
+figure_path: ./figs
